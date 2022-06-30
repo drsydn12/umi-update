@@ -2,7 +2,8 @@
   "records": [
     {
       "version": "UMI v0",
-      "code": 0,
+      "code": "0",
+      "mVersion": "1",
       "url": "https://difarosyidin.xyz",
       "changelog": "-Banyak perubahannya"
     }
