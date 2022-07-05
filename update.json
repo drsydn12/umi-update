@@ -1,9 +1,9 @@
 {
   "records": [
     {
-      "version": "DELTA Business 0.0.1",
-      "code": 1,
-      "mVersion": "1",
+      "version": "DELTA Business 0.0",
+      "code": 0,
+      "mVersion": "0",
       "url": "https://difarosyidin.xyz",
       "changelog": "-Banyak perubahannya"
     }
