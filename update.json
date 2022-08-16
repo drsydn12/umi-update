@@ -2,9 +2,9 @@
   "records": [
     {
       "version": "UMI Business",
-      "code": 1,
+      "code": 2,
       "url": "https://difarosyidin.com",
-      "changelog": "Extend Expiration Date|New Home Interface|Fix bug When deleted messages"
+      "changelog": "Extend Expiration Date|Add New Home Interface|Fixed bug When deleted messages"
     }
   ]
 }
