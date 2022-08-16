@@ -4,7 +4,7 @@
       "version": "UMI Business",
       "code": 2,
       "url": "https://difarosyidin.com",
-      "changelog": "Extend Expiration Date|Added New Home Interface|Fixed a bug When deleting messages in bulk"
+      "changelog": "Extend Expiration Date|Added New Home Interface|Fixed bug When deleting multiple messages"
     }
   ]
 }
