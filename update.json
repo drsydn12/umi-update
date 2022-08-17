@@ -1,7 +1,7 @@
 {
   "records": [
     {
-      "version": "UMI Business 17.5",
+      "version": "UMI Business",
       "code": 2,
       "url": "https://difarosyidin.com",
       "changelog": "Extend Expiration Date|Added New Home Interface|Fixed bug When deleting multiple messages"
